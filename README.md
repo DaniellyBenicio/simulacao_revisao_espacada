@@ -17,7 +17,7 @@ As análises foram conduzidas com alunos simuladas, permitindo o controle das va
 - Complexidade das questões;
 - Horizontes temporais
 - Limiares de retenção
-- 
+
 Os resultados refletem o comportamento definido pelo modelo computacional adotado e não representam diretamente contextos educacionais reais.
 
 
